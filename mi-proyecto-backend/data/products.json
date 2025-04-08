@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Producto de ejemplo",
+    "description": "Descripción del producto",
+    "code": "COD123",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría",
+    "thumbnails": [
+      "ruta/imagen1.jpg"
+    ]
+  }
+]
